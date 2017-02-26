@@ -1,0 +1,20 @@
+# Leiningen
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
